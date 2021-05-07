@@ -1,3 +1,4 @@
+FROM:https://github.com/laravel/valet/issues/994
 I think your situation is fixable by running the following:
 
 brew unlink php && brew link php@7.2 (to reset brew to be in sync with what's actually running, and prepare to run valet use below after some cleanup)
