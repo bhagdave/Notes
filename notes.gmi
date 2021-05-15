@@ -1,0 +1,7 @@
+#Notes
+So I have started to collect little notes while I am working, always around what I am working on and normally things I used to keep in a physical journal.  But now I have started to put them in flat text files and put them into a github repo.  That way I can keep track of them.  I am now contemplating making them part of my site here. Why not?
+
+Then I started to wonder if gmi files could include links to flat test files. So I am going to test it here.
+=> test.txt A Test
+
+From this I can conclude that it does not like files without extensions but is absolutely fine if they have a .txt extension. So I will save my notes with that extension and add my notes here. However, it is worth pointing out that if you follow the link to the text file above it does not wrap the lines. Simply shows them as is. So you would have to format them accordingly.
